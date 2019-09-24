@@ -1,0 +1,66 @@
+{
+  "names": {
+    "default": {
+      "roman": "Choi"
+    },
+    "japan": {
+      "roman": "Choi",
+      "original": "チョイ・ボンゲ"
+    }
+  },
+  "images": {
+    "face": "choi.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Zujo Sashi",
+        "input": "{close}, :b: {or} :f:+[C] {or} [D]"
+      }
+    ],
+    "{commandMoves}": [
+      {
+        "name": "Wall Jump",
+        "input": "{duringJumpNearWall}, :uf:"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Shisso Hishozan",
+        "input": "{charge} :b: :f:+[A] {or} [C]"
+      },
+      {
+        "name": "Tatsumaki Shippuzan",
+        "input": "{charge} :d: :u:+[A] {or} [C]"
+      },
+      {
+        "name": "Senpu Hien Shitotsu",
+        "input": "{charge} :b: :f:+[B] {or} [D]"
+      },
+      {
+        "name": "Hoko Tenkan",
+        "input": "{anyDirection}+[A] {or} [B] {or} [C] {or} [D]",
+        "after": "Senpu Hien Shitotsu"
+      },
+      {
+        "name": "Hisho Kuretsuzan",
+        "input": "{charge} :d: :u:+[B] {or} [D] ({hold} [B] {or} [D] {toAttack})"
+      },
+      {
+        "name": "Hoko Tenkan",
+        "input": "{anyDirection}+[A] {or} [B] {or} [C] {or} [D]",
+        "after": "Hisho Kuretsuzan"
+      },
+      {
+        "name": "Hishokyaku",
+        "input": "{inAir}, :qcf:+[B] {or} [D]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "Shin! Chozetsu Tatsumaki Shinkuzan",
+        "input": ":hcb::hcb:+[A] {or} [C] ({use} :b: {or} :f: {toMove})"
+      }
+    ]
+  }
+}
