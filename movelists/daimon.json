@@ -1,0 +1,62 @@
+{
+  "names": {
+    "default": {
+      "roman": "Daimon"
+    },
+    "japan": {
+      "roman": "Daimon",
+      "original": "大門 五郎"
+    }
+  },
+  "images": {
+    "face": "daimon.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Juji Shime",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Hiza Guruma",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Jiraishin",
+        "input": ":dp:+[A]"
+      },      
+      {
+        "name": "Jiraishin (Feint)",
+        "input": ":dp:+[C]"
+      }, 
+      {
+        "name": "Tenchi Gaeshi",
+        "input": "{close}, :hcb::f:+[C]"
+      },     
+      {
+        "name": "Kumo Tsukami Nage",
+        "input": ":hcf:+[A]"
+      },
+      {
+        "name": "Kirikabu Gaeshi",
+        "input": ":hcf:+[C]"
+      },       
+      {
+        "name": "Cho Osotogari",
+        "input": ":hcf:+[B]"
+      },    
+      {
+        "name": "Cho Ukemi",
+        "input": ":qcb:+[B] {or} [D]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "Jigoku Gokuraku Otoshi",
+        "input": "{close}, :hcb::hcb:+[C]"
+      }
+    ]
+  }
+}
