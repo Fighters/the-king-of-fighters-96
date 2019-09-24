@@ -1,0 +1,71 @@
+{
+  "names": {
+    "default": {
+      "roman": "Benimaru"
+    },
+    "japan": {
+      "roman": "Benimaru",
+      "original": "二階堂 紅丸"
+    }
+  },
+  "images": {
+    "face": "benimaru.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Catch and Shoot",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Front Suplex",
+        "input": "{close}, :b: {or} :f:+[D]"
+      },
+      {
+        "name": "Spinning Knee Drop",
+        "input": "{inAirAndClose}, :b: {or} :d: {or} :f:+[C] {or} [D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Raijinken",
+        "input": ":qcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Kuchu Raijinken",
+        "input": "{inAir}, :qcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Iai Geri",
+        "input": ":qcf:+[B] {or} [D]"
+      },
+      {
+        "name": "Hando Sandangeri",
+        "input": ":d::u:+[B] {or} [D]",
+        "after": "Iai Geri"
+      },
+      {
+        "name": "Hando Sandangeri",
+        "input": ":rdp:+[B] {or} [D]"
+      },
+      {
+        "name": "Super Inazuma Kick",
+        "input": ":dp:+[B] {or} [D]"
+      },
+      {
+        "name": "Shinku Katategoma",
+        "input": ":hcb:+[B] {or} [D]"
+      },
+      {
+        "name": "Benimaru Collider",
+        "input": "{close}, :hcf:+[C]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "Raikoken",
+        "input": ":qcf::qcf:+[A] {or} [C]"
+      }
+    ]
+  }
+}
