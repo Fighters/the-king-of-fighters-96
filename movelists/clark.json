@@ -1,0 +1,70 @@
+{
+  "names": {
+    "default": {
+      "roman": "Clark"
+    },
+    "japan": {
+      "roman": "Clark",
+      "original": "クラーク・スティル"
+    }
+  },
+  "images": {
+    "face": "clark.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Pyramid Driver EX",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Fisherman Buster",
+        "input": "{close}, :b: {or} :f:+[D]"
+      },
+      {
+        "name": "Death Lake Driver",
+        "input": "{inAirAndClose}, :b: {or} :d: {or} :f:+[C] {or} [D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Vulcan Punch",
+        "input": "{tap} [A] {or} [C] {repeatedly} ({use} :f: {toMove})"
+      },
+      {
+        "name": "Napalm Stretch",
+        "input": ":dp:+[A] {or} [C]"
+      },
+      {
+        "name": "Rolling Cradle",
+        "input": ":hcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Frankensteiner",
+        "input": ":hcf:+[B]"
+      },
+      {
+        "name": "Super Argentine Backbreaker",
+        "input": "{perto}, :hcf:+[D]"
+      },
+      {
+        "name": "Flashing Elbow",
+        "input": "{afterClarkCommandThrows}, :qcf:+[A] {or} [C]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "Ultra Argentine Backbreaker",
+        "input": "{close}, :hcb::hcb:+[C]"
+      }
+    ]
+  },
+  "custom_strings": {
+    "english": {
+      "afterClarkCommandThrows": "after Napalm Stretch, Rolling Cradle, Frankensteiner {or} Super Argentine Backbreaker"
+    },
+    "portuguese": {
+      "afterClarkCommandThrows": "após Napalm Stretch, Rolling Cradle, Frankensteiner {or} Super Argentine Backbreaker"
+    }
+  }
+}
