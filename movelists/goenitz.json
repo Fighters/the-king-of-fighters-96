@@ -1,0 +1,67 @@
+{
+  "names": {
+    "default": {
+      "roman": "Goenitz"
+    },
+    "japan": {
+      "roman": "Goenitz",
+      "original": "ゲーニッツ"
+    }
+  },
+  "images": {
+    "face": "goenitz.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Meifu no Mon",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Sokatsusatsu",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Yonokaze",
+        "input": ":hcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Wanhyo Tokobuse",
+        "input": ":qcb:+[A]"
+      },
+      {
+        "name": "Wanhyo Mametsu",
+        "input": ":qcb:+[C]"
+      },
+      {
+        "name": "Hyoga",
+        "input": ":qcb:+[B] {or} [D]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "Yamidokoku",
+        "input": "{close}, :hcb::hcb:+[C]"
+      },
+      {
+        "name": "Shin Yaotome: Mizuchi",
+        "input": ":qcb::db::qcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Shin Yaotome: Jissokoku",
+        "input": ":qcb::db::qcf:+[A] {or} [C]",
+        "extraInfo": "{goenitzSDM}"
+      }
+    ]
+  },
+  "custom_strings": {
+    "english": {
+      "goenitzSDM": "can only be done with the super meter in MAXIMUM and the life bar blinking in red"
+    },
+    "portuguese": {
+      "goenitzSDM": "só pode ser feito com o medidor de super em MAXIMUM e a barra de life piscando em vermelho"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "names": {
+    "default": {
+      "roman": "Vice"
+    },
+    "japan": {
+      "roman": "Vice",
+      "original": "バイス"
+    }
+  },
+  "images": {
+    "face": "vice.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Death Blow",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Backlash",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Outrage",
+        "input": ":qcb:+[B] {or} [D]"
+      },
+      {
+        "name": "Ravenous",
+        "input": "{inAir}, :qcb:+[B] {or} [D]"
+      },
+      {
+        "name": "Deicide",
+        "input": ":hcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Gorefest",
+        "input": "{close}, :hcb::f:+[C]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "Negative Gain",
+        "input": "{close}, :hcb::hcb:+[C]"
+      }
+    ]
+  }
+}

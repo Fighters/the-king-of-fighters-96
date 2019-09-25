@@ -1,0 +1,54 @@
+{
+  "names": {
+    "default": {
+      "roman": "Mr. Big"
+    },
+    "japan": {
+      "roman": "Mr. Big",
+      "original": "Mr. ビッグ"
+    }
+  },
+  "images": {
+    "face": "mrBig.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Million Dollar Buster",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Highlift Throw",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Crazy Drum",
+        "input": "{tap} [A] {or} [C] {repeatedly}"
+      },
+      {
+        "name": "Ground Blaster",
+        "input": ":qcf:+[A] {or} [C]"
+      },
+      {
+        "name": "California Romance",
+        "input": ":dp:+[A] {or} [C]"
+      },
+      {
+        "name": "Cross Diving",
+        "input": ":hcb:+[A] {or} [C]"
+      },
+      {
+        "name": "Spinning Lancer",
+        "input": ":hcb:+[B] {or} [D]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "Blaster Wave",
+        "input": ":qcf::qcf:+[A] {or} [C]"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "names": {
+    "default": {
+      "roman": "Mature"
+    },
+    "japan": {
+      "roman": "Mature",
+      "original": "マチュア"
+    }
+  },
+  "images": {
+    "face": "mature.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Death Blow",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Backlash",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Despair",
+        "input": ":qcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Deathrow",
+        "input": ":qcb:+[A] {or} [C] ({upTo3x})"
+      },
+      {
+        "name": "Metal Massacre",
+        "input": ":qcb:+[B] {or} [D]"
+      },
+      {
+        "name": "Deicide",
+        "input": ":hcf:+[A] {or} [C]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "Heaven's Gate",
+        "input": ":qcb::db::qcf:+[B] {or} [D]"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "names": {
+    "default": {
+      "roman": "Geese"
+    },
+    "japan": {
+      "roman": "Geese",
+      "original": "ギース・ハワード"
+    }
+  },
+  "images": {
+    "face": "geese.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Tate Katate Nage",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Shinku Nage",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Reppuken",
+        "input": ":qcf:+[A]"
+      },
+      {
+        "name": "Double Reppuken",
+        "input": ":qcf:+[C]"
+      },
+      {
+        "name": "Shippuken",
+        "input": "{inAir}, :qcb:+[A] {or} [C]"
+      },
+      {
+        "name": "Hisho Nichirinzan",
+        "input": ":dp:+[A] {or} [C]"
+      },
+      {
+        "name": "Jaeiken",
+        "input": ":hcb:+[A] {or} [C]"
+      },
+      {
+        "name": "Jodan Atemi",
+        "input": ":hcf:+[B]"
+      },
+      {
+        "name": "Chudan Atemi",
+        "input": ":hcf:+[D]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "Raging Storm",
+        "input": ":db::hcb::df:+[A] {or} [C]"
+      }
+    ]
+  }
+}

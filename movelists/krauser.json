@@ -1,0 +1,58 @@
+{
+  "names": {
+    "default": {
+      "roman": "Krauser"
+    },
+    "japan": {
+      "roman": "Krauser",
+      "original": "ヴォルフガング・クラウザー"
+    }
+  },
+  "images": {
+    "face": "krauser.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Cliffhanger Drop",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Kaiser Driver '91",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Blitz Ball (High)",
+        "input": ":qcb:+[A] {or} [C]"
+      },
+      {
+        "name": "Blitz Ball (Low)",
+        "input": ":qcb:+[B] {or} [D]"
+      },
+      {
+        "name": "Leg Tomahawk",
+        "input": ":qcf:+[B] {or} [D]"
+      },
+      {
+        "name": "Kaiser Kick",
+        "input": ":dp:+[B] {or} [D]"
+      },
+      {
+        "name": "Kaiser Duel Sobat",
+        "input": ":hcf:+[B] {or} [D]"
+      },
+      {
+        "name": "Kaiser Suplex",
+        "input": "{close}, :hcb::f:+[C]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "Kaiser Wave",
+        "input": ":f::hcf:+[A] {or} [C]"
+      }
+    ]
+  }
+}
