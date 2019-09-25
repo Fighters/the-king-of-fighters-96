@@ -1,0 +1,58 @@
+{
+  "names": {
+    "default": {
+      "roman": "Kensou"
+    },
+    "japan": {
+      "roman": "Kensou",
+      "original": "椎 拳崇"
+    }
+  },
+  "images": {
+    "face": "kensou.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Hakkei",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Tomoe Nage",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Chokyudan",
+        "input": ":qcb:+[A] {or} [C]"
+      },
+      {
+        "name": "Ryugaku Sai",
+        "input": ":rdp:+[B] {or} [D]"
+      },
+      {
+        "name": "Ryurenga Chiryu",
+        "input": ":hcf:+[A]"
+      },
+      {
+        "name": "Ryurenga Tenryu",
+        "input": ":hcf:+[C]"
+      },
+      {
+        "name": "Ryuso Geki",
+        "input": "{inAir}, :qcb:+[A] {or} [C]"
+      }
+    ],
+    "{desperationMoves}": [
+      {
+        "name": "Shinryu Seio Rekkyaku",
+        "input": ":qcf::df::qcb:+[B]"
+      },
+      {
+        "name": "Shinryu Tenbukyaku",
+        "input": ":qcf::b::f:+[D]"
+      }
+    ]
+  }
+}
