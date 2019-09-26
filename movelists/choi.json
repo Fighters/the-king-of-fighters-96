@@ -39,7 +39,7 @@
       },
       {
         "name": "Hoko Tenkan",
-        "input": "{anyDirection}+[A] {or} [B] {or} [C] {or} [D]",
+        "input": "{anyDirection}+[A] {or} [B] {or} [C] {or} [D] ({upTo4x})",
         "after": "Senpu Hien Shitotsu"
       },
       {
@@ -48,7 +48,7 @@
       },
       {
         "name": "Hoko Tenkan",
-        "input": "{anyDirection}+[A] {or} [B] {or} [C] {or} [D]",
+        "input": "{anyDirection}+[A] {or} [B] {or} [C] {or} [D] ({upTo4x})",
         "after": "Hisho Kuretsuzan"
       },
       {
