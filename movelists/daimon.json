@@ -20,6 +20,10 @@
       {
         "name": "Hiza Guruma",
         "input": "{close}, :b: {or} :f:+[D]"
+      },
+      {
+        "name": "Tsukami Tatakitsuke",
+        "input": "{1StepAway}, :b: {or} :f:+[C]"
       }
     ],
     "{specialMoves}": [
