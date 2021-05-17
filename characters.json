@@ -1,0 +1,321 @@
+[
+	{
+		"name": "Kyo Kusanagi",
+		"repository": "",
+		"movelist": "kyo.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "草薙 京"
+			}
+		]
+	},
+	{
+		"name": "Benimaru Nikaido",
+		"repository": "",
+		"movelist": "benimaru.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "二階堂 紅丸"
+			}
+		]
+	},
+	{
+		"name": "Goro Daimon",
+		"repository": "",
+		"movelist": "daimon.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "大門 五郎"
+			}
+		]
+	},
+	{
+		"name": "Terry Bogard",
+		"repository": "",
+		"movelist": "terry.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "テリー・ボガード"
+			}
+		]
+	},
+	{
+		"name": "Andy Bogard",
+		"repository": "",
+		"movelist": "andy.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "アンディ・ボガード"
+			}
+		]
+	},
+	{
+		"name": "Joe Higashi",
+		"repository": "",
+		"movelist": "joe.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "ジョー・ヒガシ"
+			}
+		]
+	},
+	{
+		"name": "Athena Asamiya",
+		"repository": "",
+		"movelist": "athena.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "麻宮 アテナ"
+			}
+		]
+	},
+	{
+		"name": "Sie Kensou",
+		"repository": "",
+		"movelist": "kensou.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "椎 拳崇"
+			}
+		]
+	},
+	{
+		"name": "Chin Gentsai",
+		"repository": "",
+		"movelist": "chin.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "鎮 元斎"
+			}
+		]
+	},
+	{
+		"name": "Iori Yagami",
+		"repository": "",
+		"movelist": "iori.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "八神 庵"
+			}
+		]
+	},
+	{
+		"name": "Mature",
+		"repository": "",
+		"movelist": "mature.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "マチュア"
+			}
+		]
+	},
+	{
+		"name": "Vice",
+		"repository": "",
+		"movelist": "vice.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "バイス"
+			}
+		]
+	},
+	{
+		"name": "Kim Kaphwan",
+		"repository": "",
+		"movelist": "kim.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "キム・カッファン"
+			}
+		]
+	},
+	{
+		"name": "Chang Koehan",
+		"repository": "",
+		"movelist": "chang.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "チャン・コーハン"
+			}
+		]
+	},
+	{
+		"name": "Choi Bounge",
+		"repository": "",
+		"movelist": "choi.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "チョイ・ボンゲ"
+			}
+		]
+	},
+	{
+		"name": "Leona",
+		"repository": "",
+		"movelist": "leona.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "レオナ・ハイデルン"
+			}
+		]
+	},
+	{
+		"name": "Ralf",
+		"repository": "",
+		"movelist": "ralf.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "ラルフ・ジョーンズ"
+			}
+		]
+	},
+	{
+		"name": "Clark",
+		"repository": "",
+		"movelist": "clark.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "クラーク・スティル"
+			}
+		]
+	},
+	{
+		"name": "Mai Shiranui",
+		"repository": "",
+		"movelist": "mai.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "不知火 舞"
+			}
+		]
+	},
+	{
+		"name": "King",
+		"repository": "",
+		"movelist": "king.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "キング"
+			}
+		]
+	},
+	{
+		"name": "Kasumi Todo",
+		"repository": "",
+		"movelist": "kasumi.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "藤堂 香澄"
+			}
+		]
+	},
+	{
+		"name": "Ryo Sakazaki",
+		"repository": "",
+		"movelist": "ryo.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "リョウ・サカザキ"
+			}
+		]
+	},
+	{
+		"name": "Robert Garcia",
+		"repository": "",
+		"movelist": "robert.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "ロバート・ガルシア"
+			}
+		]
+	},
+	{
+		"name": "Yuri Sakazaki",
+		"repository": "",
+		"movelist": "yuri.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "ユリ・サカザキ"
+			}
+		]
+	},
+	{
+		"name": "Geese Howard",
+		"repository": "",
+		"movelist": "geese.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "ギース・ハワード"
+			}
+		]
+	},
+	{
+		"name": "Mr. Big",
+		"repository": "",
+		"movelist": "mrBig.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "Mr. ビッグ"
+			}
+		]
+	},
+	{
+		"name": "Wolfgang Krauser",
+		"repository": "",
+		"movelist": "krauser.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "ヴォルフガング・クラウザー"
+			}
+		]
+	},
+	{
+		"name": "Chizuru Kagura",
+		"repository": "",
+		"movelist": "chizuru.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "神楽 ちづる"
+			}
+		]
+	},
+	{
+		"name": "Goenitz",
+		"repository": "",
+		"movelist": "goenitz.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "ゲーニッツ"
+			}
+		]
+	}
+]
